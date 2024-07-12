@@ -1,5 +1,4 @@
-const url = 'http://localhost:3000/staff';
-
+const url = "https://staff-backend-ruby.vercel.app/staff"
 // UTILITY FUNCTIONS
 
 function createAnElement(element) {
